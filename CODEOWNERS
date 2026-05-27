@@ -1,0 +1,6 @@
+# APEX Power Operations org-wide CODEOWNERS default
+# Per-repo CODEOWNERS overrides this default within each repo
+# See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default: all paths require operator review
+* @jason-swenson
